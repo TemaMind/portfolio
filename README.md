@@ -52,4 +52,4 @@ Docker / docker-compose · GitHub Actions · NGINX · Linux
 | Telegram | [@temamind39](https://t.me/temamind39) |
 | Timezone | Europe/Berlin (UTC+2 / +3) |
 
-_С радостью возьмусь за новые проекты, помогу оптимизировать ваш backend или соберу MVP «под ключ». 
+С радостью возьмусь за новые проекты, помогу оптимизировать ваш backend или соберу MVP «под ключ». 
