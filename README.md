@@ -19,7 +19,7 @@ Python-/Django-разработчик из Калининграда (22 года
 | Проект | Демо | Исходники | Кратко |
 |--------|------|-----------|--------|
 | **Blog API** | [demo.blog.example.ru](https://demo.blog.example.ru) | [`/blog-api`](https://github.com/TemaMind/blog-api) | CRUD-блог, JWT-авторизация, Swagger, CI/CD. |
-| **Invoice SaaS** | [invoice.example.ru](https://invoice.example.ru) | [`/invoice-saas`](https://github.com/TemaMind/invoice-saas) | Выставление счетов, Stripe-webhooks, PDF-генерация. |
+| **Invoice SaaS** | [demo ↗](https://invoice.example.ru) | [`/invoice-saas`](https://github.com/TemaMind/invoice-saas) | CRUD-счета, PDF-генерация, Celery-очередь, Stripe-webhook. |
 | **SafeRoute MVP** | [saferoute.ai](https://saferoute.ai) | (приватно) | Проверка HS-кода по sanction-листам, расчёт пошлины, REST-API. |
 
 > ⚙️ **Как запустить** любой проект локально  
