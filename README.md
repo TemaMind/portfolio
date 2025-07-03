@@ -41,7 +41,7 @@ Python-/Django-разработчик из Калининграда (22 года
 ## 📝 CV & Links
 
 * **Upwork:** [upwork.com/freelancers/~yourprofile](https://www.upwork.com/freelancers/~yourprofile)  
-* **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+* **LinkedIn:** [linkedin.com/in/tema-mind-150104373](https://linkedin.com/in/tema-mind-150104373)  
 * **PDF-резюме:** [`/docs/cv.pdf`](./docs/cv.pdf)  
 * **Питч-дек SafeRoute:** [`/docs/saferoute_pitch.pdf`](./docs/saferoute_pitch.pdf)
 
