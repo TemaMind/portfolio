@@ -18,6 +18,7 @@ Python-/Django-разработчик из Калининграда (22 года
 |--------|------|-----------|--------|
 | **Blog API** | [demo ↗](https://mindapi.ru) | [`/blog-api`](https://github.com/TemaMind/blog-api) | CRUD-блог, JWT-авторизация, Swagger, CI/CD. |
 | **Invoice SaaS** | [demo ↗](https://invoice-saas.onrender.com/api/) | [`/invoice-saas`](https://github.com/TemaMind/invoice-saas) | CRUD-счета, PDF-генерация, Celery-очередь, Stripe-webhook. |
+| **Docker Example** |  | [`/my_shop_backend`](https://github.com/TemaMind/my_shop_backend) | Flask, Api, PostgreSQL, Docker. |
 
 ---
 
