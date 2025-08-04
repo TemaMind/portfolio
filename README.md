@@ -43,6 +43,6 @@ Python-/Django-разработчик из Калининграда (22 года
 |--|--|
 | Email | `bernikovartemal@gmail.com` |
 | Telegram | [@temamind39](https://t.me/temamind39) |
-| Timezone | Europe/Kaliningrad (UTC+2 / +3) |
+| Timezone | Europe/Kaliningrad (UTC+2) |
 
 _С радостью возьмусь за новые проекты, помогу оптимизировать ваш backend или соберу MVP «под ключ». Пишите!_
