@@ -8,7 +8,7 @@ Python-/Django-разработчик из Калининграда (22 года
 ## 🚀 Знания и умения
 
 `Python 3.12` · `Django 5 + DRF` · `SQL + PostgreSQL` · `Celery`  
-`Docker` · `GitHub Actions`  · `Linux` · `Flask`
+`Docker` · `GitHub Actions`  · `Linux` · `Flask` ·
 `FastAPI` · `Pytest + Unittest`
 
 ---
