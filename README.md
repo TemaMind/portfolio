@@ -20,6 +20,7 @@ https://github.com/TemaMind/Q-a-Api-Service - API для онлайн-серви
 https://github.com/TemaMind/homework-bot - Бот-ассистент в Телеграме (доступ к репо по запросу)
 https://github.com/TemaMind/the_snake - Игра «Изгиб Питона» (она же "змейка")
 https://github.com/TemaMind/api-final-yatub - Агрегатор новостей (доступ к репо по запросу)
+
 ---
 
 ## 📈 GitHub Stats
