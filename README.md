@@ -16,7 +16,7 @@ Python-/Django-разработчик из Калининграда (22 года
 ## 🛠 Портфолио
 https://github.com/TemaMind/foodgram - Веб-приложение для публикации рецептов (доступ  к репо по запросу)
 https://github.com/TemaMind/api-yamdb - Блог-платформа с авторизацией и комментариями
-[https://github.com/TemaMind/api-final-yatube](https://github.com/TemaMind/Q-a-Api-Service) - API для онлайн-сервиса
+(https://github.com/TemaMind/Q-a-Api-Service) - API для онлайн-сервиса
 https://github.com/TemaMind/homework-bot - Бот-ассистент в Телеграме (доступ к репо по запросу)
 https://github.com/TemaMind/the_snake - Игра «Изгиб Питона» (она же "змейка")
 https://github.com/TemaMind/api-final-yatub - Агрегатор новостей (доступ к репо по запросу
