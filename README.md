@@ -33,7 +33,7 @@ https://github.com/TemaMind/api-final-yatub - Агрегатор новосте�
 ## 📝 Links
 
 * **Kwork:** [kwork.ru/user/temamind](https://kwork.ru/user/temamind)  
-* **HH.RU** [https://kaliningrad.hh.ru/profile/me?hhtmFrom=ProfileActivator](https://kaliningrad.hh.ru/profile/me?hhtmFrom=ProfileActivator)
+* **HH.RU** [kaliningrad.hh.ru/profile/me?hhtmFrom=ProfileActivator](https://kaliningrad.hh.ru/profile/me?hhtmFrom=ProfileActivator)
 
 ---
 
